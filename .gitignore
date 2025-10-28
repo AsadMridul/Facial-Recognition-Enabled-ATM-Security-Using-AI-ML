@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+config.py
+encodings.pickle
+dataset/
+unauthorized_access/
+test_data/
+.DS_Store
+Thumbs.db

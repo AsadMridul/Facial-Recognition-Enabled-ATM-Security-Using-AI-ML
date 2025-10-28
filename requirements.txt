@@ -1,0 +1,6 @@
+# requirements.txt
+opencv-python
+face_recognition
+numpy
+twilio
+Pillow
