@@ -66,7 +66,7 @@ This system is designed for security and robustness, handling both successful an
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/AsadMridul/Facial-Recognition-Enabled-ATM-Security-Using-AI-ML.git](https://github.com/AsadMridul/Facial-Recognition-Enabled-ATM-Security-Using-AI-ML.git)
+    git clone https://github.com/AsadMridul/Facial-Recognition-Enabled-ATM-Security-Using-AI-ML.git
     cd Facial-Recognition-Enabled-ATM-Security-Using-AI-ML
     ```
 
